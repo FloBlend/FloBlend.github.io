@@ -1,8 +1,14 @@
 body {
     background-color: darkslategray;
+    display: flex;
 }
 
-h1 {
+main {
+    
+}
+
+main > h1 {
     font-family: 'Macondo Swash Caps';
     color: azure;
+    text-align: center;
 }
