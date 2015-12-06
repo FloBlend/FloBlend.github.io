@@ -12,3 +12,13 @@ main > h1 {
     color: azure;
     text-align: center;
 }
+
+footer {
+    
+}
+
+footer > p {
+    font-family: 'Comic Sans';
+    color: azure;
+    text-align: center;
+}
