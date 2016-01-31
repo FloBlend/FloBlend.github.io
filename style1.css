@@ -11,6 +11,10 @@
 	width: 289px;
 }
 
+.photo-grid li:hover figcaption {
+    opacity: 1;
+}
+
 .photo-grid img {
 	display: block;
 	height: auto;
