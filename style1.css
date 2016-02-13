@@ -58,7 +58,11 @@ body {
 }
 
 header {
-    
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 200px 288px 0 0;
+    border-color: #3bc7b0 transparent transparent transparent;
 }
 
 header > h1 {
