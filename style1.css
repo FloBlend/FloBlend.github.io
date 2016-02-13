@@ -73,7 +73,8 @@ header > h1 {
 }
 
 main {
-    
+    display: flex;
+    flex-direction: row;
 }
 
 main > p {
